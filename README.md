@@ -1,4 +1,6 @@
-![MasterHead](https://i.pinimg.com/originals/0c/01/a7/0c01a73fc25f935e241bb25bc8950141.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/0c/01/a7/0c01a73fc25f935e241bb25bc8950141.gif" alt="MasterHead" width="900" height="450">
+</p>
 <h1 align="center">Hi 👋, I'm Rohit Kumar Dey</h1>
 <h3 align="center"> Aspiring Software Developer from INDIA | Proficient in MERN | Eager to Explore AI and ML | Dedicated, Disciplined, and Tech-Curious Student</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
