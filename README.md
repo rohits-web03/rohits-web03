@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/01/a7/0c01a73fc25f935e241bb25bc8950141.gif" alt="MasterHead" width="800" height="350">
+  <img src="https://i.pinimg.com/originals/0c/01/a7/0c01a73fc25f935e241bb25bc8950141.gif" alt="MasterHead" width="650" height="300">
 </p>
 <h1 align="center">Hi 👋, I'm Rohit Kumar Dey</h1>
 <h3 align="center"> Aspiring Software Developer from INDIA | Proficient in MERN | Eager to Explore AI and ML | Dedicated, Disciplined, and Tech-Curious Student</h3>
@@ -19,6 +19,8 @@
 - 📫 How to reach me **rohit.dey302003@gmail.com**
 
 - ⚡ Fun fact: **I like to sketch**
+
+[![An image of @rohits_web's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohits_web)](https://holopin.io/@rohits_web)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
