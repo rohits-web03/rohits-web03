@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Dey</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">Software developer from India</h3>
 
-- 🌱 I’m currently learning **Web3 and Cryptography**
+- 🌱 I’m currently learning about **Low level systems, Math and Cryptography**
 
-- 👯 I’m looking to collaborate on **Web2 and Web3 Projects**
+<!-- - 👯 I’m looking to collaborate on **Web2 and Web3 Projects** -->
 
-- 👨‍💻 All of my projects are available at [https://rohitdev-psi.vercel.app/](https://rohitdev-psi.vercel.app/)
+- 👨‍💻 Know more about me at [rohitdey.com](https://rohitdey.com)
 
-- 💬 Ask me about **Mathematics**
+<!-- - 💬 Ask me about **Life and Maths** -->
 
-- 📫 How to reach me **rohit.dey302003@gmail.com**
+- 📫 How to reach me [hi@rohitdey.com](mailto:hi@rohitdey.com)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b7AKwpoFGd_oicjZDLoMktvxdQR3P4vf/view)
+- 📄 Check out my [resume](https://drive.google.com/file/d/12Jq-wQMosX7vjot4mYOmqB-5yfcoznjp/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
