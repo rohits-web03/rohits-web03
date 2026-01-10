@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit Kumar Dey</h1>
 <h3 align="center">Software developer from India</h3>
 
-- 🌱 I’m currently learning about **Low level systems, Math and Cryptography**
+- 🌱 I’m currently learning about **Web, Systems and Linux**
 
 <!-- - 👯 I’m looking to collaborate on **Web2 and Web3 Projects** -->
 
